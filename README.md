@@ -7,8 +7,9 @@
 * 💥 React JS
 * 💫 Vue JS
 * 💻 HTML, CSS, JS
-* <img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/>
-
+* <img src='https://cdn-icons-png.flaticon.com/512/5968/5968520.png' alt='Photoshop' height='25'> Adobe Photoshop, 
+* <img src='https://cdn-icons-png.flaticon.com/512/5968/5968472.png' alt='Illustrator' height='25'> Adobe Illustrator 
+* <img src='https://cdn-icons-png.flaticon.com/512/5968/5968705.png' alt='Figma' height='20'> Figma
 
 
 - 🔭 I’m currently working on Detaysoft 
