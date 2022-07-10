@@ -1,11 +1,12 @@
+# <div align="center">I'm Mustafa, a full-time Front End Developer 👨‍💻 </div>  
+
+
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/50197477/178144834-2f6430ab-55b3-439f-8cc0-661400929234.png" align="center" style="width: 50%" />
 </div>  
-  
 
-### <div align="center">I'm Mustafa, a full-time Front End Developer 👨‍💻 </div>  
-  
-
+ 
 <br/>  
 
 
