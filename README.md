@@ -7,7 +7,7 @@
 * 💥 React JS
 * 💫 Vue JS
 * 💻 HTML, CSS, JS
-* ![image](https://user-images.githubusercontent.com/50197477/178143117-365cb2f3-af79-4b39-bc6d-e86defa2b666.png) Adobe Photoshop
+* <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a> Adobe Photoshop
 Adobe Illustrator, Figma
 
 
