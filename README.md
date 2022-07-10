@@ -1,21 +1,14 @@
-### Hi there 👋, Mustafa Karaçuha
-#### Design and Front End Development
+<h1 align="center">Hi 👋, I'm Mustafa Karaçuha</h1>
+<h3 align="center">Front End Developer & UI/UX Designer</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/muskaracuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muskaracuha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mustafakaracuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafakaracuha" height="30" width="40" /></a>
+<a href="https://instagram.com/muskaracuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muskaracuha" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## Skills and Experience
-
-* <img src='https://cdn-icons-png.flaticon.com/512/1260/1260775.png' alt='Photoshop' height='25'> React JS
-* <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png' alt='Vue' height='20'> Vue JS
-* <img src='https://cdn-icons-png.flaticon.com/128/174/174854.png' alt='Html' height='20'> HTML, <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='Html' height='20'> CSS, <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JS' height='20'> JS
-* <img src='https://cdn-icons-png.flaticon.com/512/5968/5968520.png' alt='Photoshop' height='25'> Adobe Photoshop, 
-* <img src='https://cdn-icons-png.flaticon.com/512/5968/5968472.png' alt='Illustrator' height='25'> Adobe Illustrator 
-* <img src='https://cdn-icons-png.flaticon.com/512/5968/5968705.png' alt='Figma' height='20'> Figma
-
-
-- 🔭 I’m currently working on Detaysoft 
-
-
-  [<img src='https://cdn-icons-png.flaticon.com/512/1051/1051275.png' alt='github' height='40'>](https://github.com/mustafakaracuha)  [<img src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657454468~hmac=5b9495d52d73ff09b0b0315f19eaac7b' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustafakaracuha/)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/muskaracuha/)  [<img src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1657454439~hmac=b3dce4297bfe48f00b3ec07f264e6be4' alt='twitter' height='40'>](https://twitter.com/muskaracuha)  
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakaracuha&show_icons=true&locale=en&layout=compact" alt="mustafakaracuha" /></p>
