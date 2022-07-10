@@ -1,3 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Mustafa Karaçuha
+#### Design and Front End Development
 
-[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakaracuha)](https://github.com/anuraghazra/github-readme-stats)
+
+## Skills and Experience
+
+* 💥 React JS
+* 💫 Vue JS
+* 💻 HTML, CSS, JS
+* 🎨 Adobe Photoshop, Adobe Illustrator, Figma
+
+
+
+- 🔭 I’m currently working on Detaysoft 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mustafakaracuha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustafakaracuha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muskaracuha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/muskaracuha)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mustafakaracuha)  
+
