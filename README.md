@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/50197477/178144834-2f6430ab-55b3-439f-8cc0-661400929234.png" align="center" style="width: 50%" />
+<img style="margin: 10px" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="500" height="400" />  
 </div>  
 
  
