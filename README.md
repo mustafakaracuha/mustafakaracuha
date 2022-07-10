@@ -7,7 +7,8 @@
 * 💥 React JS
 * 💫 Vue JS
 * 💻 HTML, CSS, JS
-* 🎨 Adobe Photoshop, Adobe Illustrator, Figma
+* [image](https://user-images.githubusercontent.com/50197477/178143078-243d715b-ec40-49d1-99bf-5ff0a7a96158.png) Adobe Photoshop
+Adobe Illustrator, Figma
 
 
 
