@@ -10,9 +10,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table align="center"><tr><td valign="top" width="100%">
 
 ### Front End  
 <div align="center">  
@@ -30,14 +28,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -75,7 +65,8 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=krchmustafa&cover_image=true&theme=default" /></div>  
+
 
 <br/>  
 
@@ -88,6 +79,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
