@@ -2,8 +2,8 @@
 
 
 
-<div align="center">
-<img style="margin: 10px" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="500" height="400" />  
+<div align="center" style="display:flex">
+<img style="margin: 10px" src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp" width="400" height="400" />  
 </div>  
 
  
