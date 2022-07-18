@@ -1,4 +1,4 @@
-# <div align="center">I'm Mustafa, a full-time Front End Developer 👨‍💻 </div>  
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7611F&width=600&lines=I'm+Mustafa%2C+a+full-time+Front+End+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)</div>  
 
 
 <div align="center" style="display:flex">
