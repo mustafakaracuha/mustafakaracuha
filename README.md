@@ -1,5 +1,5 @@
 # <div align="center">
-(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78219&center=true&width=550&lines=I'm+Mustafa%2C+a+full+time+Front+End+Developer;I+love+JavaScript+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78219&center=true&vCenter=true&width=550&lines=I'm+Mustafa%2C+a+full+time+Front+End+Developer;I+love+JavaScript+)](https://git.io/typing-svg)
 </div>  
 
 
