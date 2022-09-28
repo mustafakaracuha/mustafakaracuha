@@ -1,6 +1,4 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6C08&vCenter=true&width=530&lines=I'm+Mustafa%2C+a+full+time+Front+End+Developer;I+love+JavaScript)](https://git.io/typing-svg)
-</div>  
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6C08&vCenter=true&width=530&lines=I'm+Mustafa%2C+a+full+time+Front+End+Developer;I+love+JavaScript)](https://git.io/typing-svg)</div>  
 
 
 <div align="center" style="display:flex">
