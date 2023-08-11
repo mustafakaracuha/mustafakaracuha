@@ -1,4 +1,4 @@
-<h1 align="center">Hey there I am Mustafa👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Hello! I'm Mustafa, a front end developer for about 4 years, passionate about software development and new technologies. I share my projects on my GitHub profile and try to contribute to the open source community.<br><br>Software development is not just a job for me, it's also my way of expressing my creativity. I try to offer better solutions by growing with new learnings in each project.<br><br>I invite you to discover my projects on my GitHub profile. Your feedback is valuable to me. If you want to cooperate, you can contact via https://www.linkedin.com/in/mustafakaracuha</p>
+<p align="left">Hello! I'm Mustafa, a front-end developer for about 4 years, passionate about software development and new technologies. I share my projects on my GitHub profile and try to contribute to the open source community.<br><br>Software development is not just a job for me, it's also my way of expressing my creativity. I try to offer better solutions by growing with new learnings in each project.<br><br>I invite you to discover my projects on my GitHub profile. Your feedback is valuable to me. If you want to cooperate, you can contact via [Linkedin](https://www.linkedin.com/in/mustafakaracuha/)</p>
 
 ###
 
@@ -77,14 +77,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafakaracuha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakaracuha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/krchmustafa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
