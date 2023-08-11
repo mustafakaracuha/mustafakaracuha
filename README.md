@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 I am Mustafa</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hello! I am Mustafa and I am here with my passion for software and technology that shapes his world. My curiosity about the magical world of computers has been following me since childhood. My GitHub profile has become a stage to nurture this curiosity with concrete projects and contribute to the global open source community.<br><br>Software development is not just a job for me, it is also my way of expressing my creativity and thinking solution-oriented. Thanks to my ability to break down complex problems, I aim to offer innovative and sustainable solutions in my projects. The projects I share on GitHub showcase my creativity and knowledge in line with these goals.<br><br>The open source community is a powerful example of knowledge sharing and collaboration. By sharing my projects on this platform, I aim to come together with other developers to exchange ideas and create better products together. My belief in the power of working and learning together is reflected in every project on my GitHub profile.<br><br>I aim to grow and develop even more in the future and gain experience in different fields. In a world where technology is rapidly evolving, learning something new in every project and sharing these learnings with other developers is my biggest inspiration.<br><br>If you are interested in software and technology like me, welcome! I invite you to explore my projects on my GitHub profile and welcome any feedback. I look forward to further innovation and success together.<br><br>If you want to connect and cooperate, you can contact me via [LinkedIn](https://www.linkedin.com/in/mustafakaracuha).</p>
 
 ###
 
