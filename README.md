@@ -1,6 +1,3 @@
-<h1 align="center">Hey there 👋</h1>
-
-###
 
 <div align="center">
   <img height="300" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"  />
