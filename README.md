@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hello! I'm Mustafa, a front-end developer for about 4 years, passionate about software development and new technologies. I share my projects on my GitHub profile and try to contribute to the open source community.<br><br>Software development is not just a job for me, it's also my way of expressing my creativity. I try to offer better solutions by growing with new learnings in each project.</p>
+<p align="left">Hi! I'm Mustafa, a front-end developer for about 4 years, passionate about software development and new technologies. I share my projects on my GitHub profile and try to contribute to the open source community.<br><br>Software development is not just a job for me, it's also my way of expressing my creativity. I try to offer better solutions by growing with new learnings in each project.</p>
 
 ###
 
