@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/mustafakaracuha/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/muskaracuha" target="_blank">
+  <a href="instagram.com/muskaracuha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/muskaracuha" target="_blank">
@@ -63,7 +63,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
@@ -74,8 +78,6 @@
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -97,5 +99,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakaracuha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mustafakaracuha&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mustafakaracuha/mustafakaracuha/output/snake.svg" alt="Snake animation" />
 
 ###
