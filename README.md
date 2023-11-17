@@ -101,7 +101,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mustafakaracuha/mustafakaracuha/output/snake.svg" alt="Snake animation" />
-
-###
