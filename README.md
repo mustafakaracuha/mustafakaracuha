@@ -1,5 +1,7 @@
 
-<div class="tenor-gif-embed" data-postid="26065234" data-share-method="host" data-aspect-ratio="0.803125" data-width="100%"><a href="https://tenor.com/view/laptop-gif-26065234">Laptop GIF</a>from <a href="https://tenor.com/search/laptop-gifs">Laptop GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+<img src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif" height="200" alt="html5 logo"  />
+</div>
 
 <p align="left">Hi! I'm Mustafa, a front-end developer for about 4 years, passionate about software development and new technologies. I share my projects on my GitHub profile and try to contribute to the open source community.<br><br>Software development is not just a job for me, it's also my way of expressing my creativity. I try to offer better solutions by growing with new learnings in each project.</p>
 
